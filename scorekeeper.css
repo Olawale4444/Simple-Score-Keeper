@@ -1,0 +1,23 @@
+body{
+
+	/*background-color: lightgrey ;*/
+
+	background-image: linear-gradient(to right, lightblue, orange);
+}
+
+.winner{
+
+	color: green ;
+	font-size: 45px ;
+}
+
+.loser{
+	color: blue;
+	font-size: 50px;
+}
+
+.reset1{
+	background:none;
+	cursor:pointer;
+	border:2px solid grey;
+}
